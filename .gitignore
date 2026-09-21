@@ -17,3 +17,9 @@ Thumbs.db
 
 # Python generated temporary files
 *.log
+
+# Generated Sentinel360 datasets
+data/raw/*.csv
+data/processed/*.csv
+data/quality/*.csv
+data/reconciliation/*.csv
